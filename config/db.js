@@ -1,8 +1,7 @@
 const mongoose = require("mongoose");
-console.log(process.env.DB_URL);
 const connectwithDb = () => {
   mongoose
-    .connect("mongodb+srv://gabhijeet0909:ZuEpaWn5zw3NJlSl@cluster0.jj7ev0i.mongodb.net/?retryWrites=true&w=majority", {
+    .connect(process.env.DB_URL, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     })
