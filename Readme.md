@@ -14,11 +14,11 @@ To get this project up and running on your local machine, follow these steps:
 
 1. **Clone the repository:**
 
-git clone <repository-url>
+git clone https://github.com/gabhijeetdev/Post-App.git
 
 2. **Navigate to the Project Directory**
 
-cd <project-directory>
+cd Post-App
 
 3. **Install Dependencies**
 
