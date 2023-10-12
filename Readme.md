@@ -1,6 +1,6 @@
-# Your Node.js Application
+#  PostApp
 
-This is a Node.js application.
+PostApp helps user to create posts and comments and interact with it.
 
 ## Prerequisites
 
@@ -38,5 +38,5 @@ Open your web browser and visit http://localhost:5000 (or the specified port if 
 
 7. **Import PostApp.postman_collection.json in PostMan**
 
-You will get the Documentation how to use the API's here.
+https://documenter.getpostman.com/view/30340773/2s9YJjTKjR
 
